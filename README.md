@@ -13,4 +13,4 @@ privilege to add the images. The user can like and share the images just like in
 ## Screenshots
 The working GIF is:
 
-<img src="https://i.imgur.com/8HWRWbi.gifv">
+<video src="https://i.imgur.com/8HWRWbi.gifv">
