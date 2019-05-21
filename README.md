@@ -13,4 +13,4 @@ privilege to add the images. The user can like and share the images just like in
 ## Screenshots
 The working GIF is:
 
-<img src="https://drive.google.com/file/d/1uX1XaMbi8mbx7pGddY-PMjT92o4CiODW/view?usp=sharing" height="500">
+<img src="https://imgur.com/LPzz09Q" height="500">
